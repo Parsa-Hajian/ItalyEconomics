@@ -1,0 +1,36 @@
+
+1. GDP Growth:
+   - Eurostat GDP and main components (output, expenditure and income)
+     https://ec.europa.eu/eurostat/web/national-accounts/data/database
+
+2. Inflation (HICP):
+   - Eurostat Harmonised Index of Consumer Prices (HICP):
+     https://ec.europa.eu/eurostat/databrowser/view/PRC_HICP_AIND/default/table?lang=en
+
+3. Unemployment:
+   - Eurostat Unemployment by sex and age - monthly average:
+     https://ec.europa.eu/eurostat/databrowser/view/UNE_RT_M__custom_2874481/default/table
+
+4. Public Debt (EDP - Government deficit and debt):
+   - Eurostat Government finance statistics:
+     https://ec.europa.eu/eurostat/web/government-finance-statistics/data/database
+
+5. Foreign Direct Investment:
+   - Eurostat FDI database (Balance of payments):
+     https://ec.europa.eu/eurostat/web/balance-of-payments/data/database
+   - UNCTAD World Investment Report
+     https://unctad.org/topic/investment/world-investment-report
+
+6. Industrial Production:
+   - Eurostat Short-term business statistics (industrial production):
+     https://ec.europa.eu/eurostat/databrowser/view/sts_inpr_a/default/table
+
+7. Additional references:
+   - ISTAT (Italian National Institute of Statistics)
+     https://www.istat.it/en/
+   - ECB (European Central Bank Data)
+     https://sdw.ecb.europa.eu/
+   - OECD.Stat
+     https://stats.oecd.org/
+
+======================================================================
